@@ -1,6 +1,5 @@
 .gitattributes
 .gitignore
-.buildignore
 CelestialBodies.pdf
 GPP_dVmap.png
 Translating.md
